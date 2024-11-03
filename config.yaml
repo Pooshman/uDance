@@ -1,5 +1,5 @@
 # workdir must have a directory named "alignments" with each multiple-sequence alignments in a seperate fasta file.
-workdir: "datasmall"
+workdir: "roadies_update"
 # options are ["nuc", "prot"]
 chartype: "nuc"
 
